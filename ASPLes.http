@@ -1,0 +1,6 @@
+@ASPLes_HostAddress = http://localhost:5129
+
+GET {{ASPLes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
